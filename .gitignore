@@ -3,3 +3,10 @@
 .RData
 .Ruserdata
 .gitignore.save
+
+# Ignore all Excel files (Raw data)
+*.xlsx
+*.xls
+
+# Ignore all CSV files (Raw data and export)
+*.csv
